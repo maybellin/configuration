@@ -20,3 +20,6 @@ class Nodes:
         string_gren_pattern = 'Name={:s} Node={:s} What={:s}'
         string_gren = string_gren_pattern.format(self.node, self.name, self.smthng)
         return string_gren
+
+    def update(self):
+        pass
