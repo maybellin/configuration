@@ -22,4 +22,4 @@ class Nodes:
         return string_gren
 
     def update(self):
-        pass
+        return 0
